@@ -2,16 +2,16 @@ from art import calc_logo,logo2    #import art to display the logo and calculato
 
 print (calc_logo,logo2)
 
-def add (n1,n2):        #funtion for addition
+def add (n1,n2):        #function for addition
     return n1+n2
 
-def subtract (n1,n2):        #funtion for subtraction
+def subtract (n1,n2):        #function for subtraction
     return n1-n2
 
-def multiply (n1,n2):        #funtion for multiplication
+def multiply (n1,n2):        #function for multiplication
     return n1*n2
 
-def divide (n1,n2):        #funtion for division
+def divide (n1,n2):        #function for division
     return n1/n2
 
 operations = {        #dictionary to define each operation and its value
